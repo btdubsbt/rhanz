@@ -1,0 +1,51 @@
+body {
+	background-image: url("Images/received_1039942126186376.png");
+	background-size: 3000px 1000px;
+	background-repeat: no-repeat;
+	margin-left: 100px;
+	margin-right: 100px;
+}
+
+h1 {
+	font-family: Impact;
+	color: white;
+	text-shadow: 2px 2px black;
+	font-size: 45px
+}
+
+hr {
+	border-top: 2px solid black;
+	border-width: auto;
+}
+
+p {
+	color: white; 
+	font-family: impact;
+	text-shadow: 1px 1px black;
+	font-size: auto;
+}
+
+div {
+	position: relative;
+	left: 30px;
+	font-family:impact;
+	color: white;
+	font-size: 30px;
+	text-shadow: 3px 3px black;
+}
+
+ul {
+	font-family: impact;
+	margin-left: 25px;
+	color: white;
+	text-shadow: 2px 2px black;
+
+}
+
+h2 {
+	margin-left: 40px;
+	font-size: 20px;
+	font-family: impact;
+	color: white;
+	text-shadow: 2px 2px black;
+}
